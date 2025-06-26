@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+}
+
+#post-list div {
+  cursor: pointer;
+  margin: 5px 0;
+}
+
+#post-detail {
+  margin-top: 20px;
+}
+
+.hidden {
+  display: none;
+}

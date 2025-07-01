@@ -11,6 +11,24 @@
       "title": "Second Post",
       "author": "Uncle Cheech",
       "content": "Here comes another post."
+    },
+    {
+      "id": 3,
+      "title": "Third Post",
+      "author": "Uncle Sfetanka",
+      "content": "Here comes another post."
+    },
+    {
+      "id": 4,
+      "title": "Fourth Post",
+      "author": "Geena",
+      "content": "Here comes another post."
+    },
+    {
+      "id": 5,
+      "title": "Fifth Post",
+      "author": "Falcon",
+      "content": "Here comes another post."
     }
   ]
 }
